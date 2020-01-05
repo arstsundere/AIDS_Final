@@ -1,7 +1,9 @@
 # 同性婚姻合法化与艾滋病人数增长的关系
 
 [ipynb代码档预览链接](http://nfunm078.gitee.io/aids_final_pages/)
+
 [Pythonanywhere部署链接](http://juin1999.pythonanywhere.com/)
+
 [ipynb代码源文件](AIDS_Final.ipynb)
 
 ### 项目背景
