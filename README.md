@@ -14,7 +14,7 @@
 * 中国分省艾滋病人数 
 
 ### 数据来源
-* [WorldBankOpenData](https://data.worldbank.org/）
+* [WorldBankOpenData](https://data.worldbank.org/)
 * [中国国家统计局](http://data.stats.gov.cn/)
 * [Wikipedia](Wikipedia.org)
 
